@@ -10,11 +10,6 @@ Applications | apk
 [Project Registration](https://github.com/kartikeysemwal/ProjectRegistration) | [apk file](https://github.com/kartikeysemwal/ProjectRegistration/blob/master/Project%20Registration.apk)
 [Saved Preferences](https://github.com/kartikeysemwal/SavedPreferences) | [apk file](https://github.com/kartikeysemwal/SavedPreferences/blob/master/Saved%20Preferences.apk)
 
- *  [Serve](https://github.com/kartikeysemwal/Hackathon)
- *  [Brain Trainer](https://github.com/kartikeysemwal/BrainTrainerApplication)
- *  [Hiking Manager](https://github.com/kartikeysemwal/HikingApplication)
- *  [Project Registration](https://github.com/kartikeysemwal/ProjectRegistration)
- *  [Saved Preferences](https://github.com/kartikeysemwal/SavedPreferences)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
