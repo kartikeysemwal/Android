@@ -1,5 +1,6 @@
 
 List containing the Android Application developed in Android Studio using Java:
+Download apk using the links.
 
 Applications | apk
 ------------ | -------------
