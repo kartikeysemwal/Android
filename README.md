@@ -1,6 +1,14 @@
 
 List containing the Android Application developed in Android Studio using Java:
 
+Applications | apk
+------------ | -------------
+[Serve](https://github.com/kartikeysemwal/Hackathon) | [apk file]()
+[Brain Trainer](https://github.com/kartikeysemwal/BrainTrainerApplication) | [apk file](https://github.com/kartikeysemwal/BrainTrainerApplication/blob/master/Brain%20Trainer.apk)
+[Hiking Manager](https://github.com/kartikeysemwal/HikingApplication) | [apk file](https://github.com/kartikeysemwal/HikingApplication/blob/master/Hiking.apk)
+[Project Registration](https://github.com/kartikeysemwal/ProjectRegistration) | [apk file](https://github.com/kartikeysemwal/ProjectRegistration/blob/master/Project%20Registration.apk)
+[Saved Preferences](https://github.com/kartikeysemwal/SavedPreferences) | [apk file](https://github.com/kartikeysemwal/SavedPreferences/blob/master/Saved%20Preferences.apk)
+
  *  [Serve](https://github.com/kartikeysemwal/Hackathon)
  *  [Brain Trainer](https://github.com/kartikeysemwal/BrainTrainerApplication)
  *  [Hiking Manager](https://github.com/kartikeysemwal/HikingApplication)
